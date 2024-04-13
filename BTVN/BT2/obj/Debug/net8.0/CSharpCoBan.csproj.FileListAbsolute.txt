@@ -1,0 +1,28 @@
+C:\Users\mcle\source\repos\CSharpCoBan\CSharpCoBan\bin\Debug\net8.0\CSharpCoBan.exe
+C:\Users\mcle\source\repos\CSharpCoBan\CSharpCoBan\bin\Debug\net8.0\CSharpCoBan.deps.json
+C:\Users\mcle\source\repos\CSharpCoBan\CSharpCoBan\bin\Debug\net8.0\CSharpCoBan.runtimeconfig.json
+C:\Users\mcle\source\repos\CSharpCoBan\CSharpCoBan\bin\Debug\net8.0\CSharpCoBan.dll
+C:\Users\mcle\source\repos\CSharpCoBan\CSharpCoBan\bin\Debug\net8.0\CSharpCoBan.pdb
+C:\Users\mcle\source\repos\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\CSharpCoBan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcle\source\repos\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\CSharpCoBan.AssemblyInfoInputs.cache
+C:\Users\mcle\source\repos\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\CSharpCoBan.AssemblyInfo.cs
+C:\Users\mcle\source\repos\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\CSharpCoBan.csproj.CoreCompileInputs.cache
+C:\Users\mcle\source\repos\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\CSharpCoBan.dll
+C:\Users\mcle\source\repos\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\refint\CSharpCoBan.dll
+C:\Users\mcle\source\repos\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\CSharpCoBan.pdb
+C:\Users\mcle\source\repos\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\CSharpCoBan.genruntimeconfig.cache
+C:\Users\mcle\source\repos\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\ref\CSharpCoBan.dll
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\bin\Debug\net8.0\CSharpCoBan.exe
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\bin\Debug\net8.0\CSharpCoBan.deps.json
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\bin\Debug\net8.0\CSharpCoBan.runtimeconfig.json
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\bin\Debug\net8.0\CSharpCoBan.dll
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\bin\Debug\net8.0\CSharpCoBan.pdb
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\CSharpCoBan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\CSharpCoBan.AssemblyInfoInputs.cache
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\CSharpCoBan.AssemblyInfo.cs
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\CSharpCoBan.csproj.CoreCompileInputs.cache
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\CSharpCoBan.dll
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\refint\CSharpCoBan.dll
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\CSharpCoBan.pdb
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\CSharpCoBan.genruntimeconfig.cache
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\ref\CSharpCoBan.dll

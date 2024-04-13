@@ -1,0 +1,14 @@
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\bin\Debug\net8.0\BTVN.exe
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\bin\Debug\net8.0\BTVN.deps.json
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\bin\Debug\net8.0\BTVN.runtimeconfig.json
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\bin\Debug\net8.0\BTVN.dll
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\bin\Debug\net8.0\BTVN.pdb
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\BTVN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\BTVN.AssemblyInfoInputs.cache
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\BTVN.AssemblyInfo.cs
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\BTVN.csproj.CoreCompileInputs.cache
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\BTVN.dll
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\refint\BTVN.dll
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\BTVN.pdb
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\BTVN.genruntimeconfig.cache
+E:\Học Lập trình\CSharpCoBan\CSharpCoBan\obj\Debug\net8.0\ref\BTVN.dll
